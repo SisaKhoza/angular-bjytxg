@@ -29,6 +29,7 @@ import { ProductDetailsComponent } from './product-details/product-details.compo
     AppComponent
   ]
 })
+
 export class AppModule { }
 
 
